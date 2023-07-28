@@ -1,6 +1,4 @@
-{{site.data.alerts.note}}
-this blog post was originally published at <https://insideidt.wordpress.com/2015/02/08/stratum-1-ntp-server-on-raspberry-pi/> and was manually converted to markdown
-{{site.data.alerts.end}}
+***NOTE***: *this blog post was originally published at <https://insideidt.wordpress.com/2015/02/08/stratum-1-ntp-server-on-raspberry-pi/> and was manually converted to markdown*
 
 The web is full of blog posts about how someone with a GPS and a Raspberry Pi created their own Stratum 1 NTP server.
 The problem with them is they’re all old.
