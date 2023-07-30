@@ -1,4 +1,4 @@
-Stratum 1 NTP server and ADS-B Feeder on Le Potato
+Stratum 1 NTP server  on Le Potato
 
 Parts List
 ==========
